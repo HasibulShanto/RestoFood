@@ -1,0 +1,94 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+#header{
+    margin:25px 0px;
+}
+.slider-top{}
+.logo{
+    width: 40%;
+    float: left;
+}
+
+.menu{
+    float: right;
+}
+.menu ul{
+    margin:0;
+	padding:0;
+}
+.menu ul li{
+    display:inline-block;
+	margin-bottom:10px;
+}
+.menu ul li a{
+    text-decoration:none;
+	font-size:18px;
+	color:#000;
+	padding:10px 20px;
+	text-transform:uppercase;
+}
+.menu ul li a:hover{color: #f34949;}
+
+#banner{
+    background:url(banner.jpg) no-repeat;
+	background-size:cover;
+	background-position:center center;
+    border-bottom: 5px solid #f34949;
+   
+}
+
+.overlay{
+	margin:0;
+	padding:0;
+	background-color:rgba(0, 0, 0, .4);
+	width:100%;
+
+}
+.banner-content{background-color: transparent !important; padding: 200px 0; }
+
+.banner-content h1{color: #fff;font-size: 50px;}
+.banner-content h3{color: #a4a5a7;font-size: 20px;}
+
+
+
+#Third{margin: 0 auto;}
+.menu-top{}
+.itemSection{margin-top: 50px;}
+.itemName{margin-top: 50px;}
+.itemName h3{border-right: border-width border-style border-color|initial|inherit;}
+.itemName h4{color:#a4a5a7;text-align:left;margin-left: 37px; }
+.btn{margin: 50px 0;border:1px solid #a4a5a7;color: #a4a5a7;}
+.btn:hover{background-color:#f34949 ;color: #fff;font-weight: 700;}
+.itemName:hover, .itemName h3:hover{color: #f34949 ;font-weight: 700;}
+
+
+#forth{padding: 30px 0;background-color: #f6f4f4;margin-top: 20px;}
+.forth-top{margin-bottom: 60px;}
+.forth-top h3{text-transform: uppercase;}
+.forth-image h5{margin-top: 20px;}
+
+
+#fifth{
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+.fifth-top{font-size: 30px;text-transform: uppercase;margin-bottom: 30px;margin-left: 2%}
+.gallery2{margin-left: 0 !important;}
+.col-md-4{padding: 0 !important;margin-left:-10px;}
+.gallery{}
+.gallery-content{margin-left: 4%}
+
+#footer{
+    padding: 70px 0;
+    background-color: #3b3b3b;
+}
+.footer-area{}
+.restaurant{}
+.tooteradd a{text-decoration:none;}
+.footer-footer{}
+
+h5{font-weight: 700;color: #fff;}
+address{color: #fff;}
+hr{max-width: 100px;border: 2px solid #000;float: justify;}
